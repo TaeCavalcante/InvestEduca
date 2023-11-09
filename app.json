@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "InvestEduca",
+    "slug": "InvestEduca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/PorcoConfig.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/PorcoConfig.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.vitorsil22.InvestEduca"
+    },
+    "web": {
+      "favicon": "./assets/Porco.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5fdeb38a-b6cf-4eeb-bfc9-457f7e135beb"
+      }
+    }
+  }
+}
